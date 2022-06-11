@@ -6,15 +6,15 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://aaazsy6bh4tv62nz7kx77g2csanlk888.node.ppio.cloud:8824/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/16s_Pro/8.1.5.4/cn/20220512192427/d481cb0d/update.zip?f_ver=v1&max_age=7776000&r=EjI2F0JVaG1SCD9UFTETVVQrJw5LGmkhWwxifwsiDEcbNCdIdwM%2BL1FOfA8RDzFCFWl6SQBBcmwATi5XTWJRAkh2d1YDXn5wAFN6FgZkWQEZJHIDHho3JlUVKBcYOREVNicJUgspc1sRKFcBNA8B&ppiouid=62a47cfb73e1db0001e200c8dacd37a8&ppio_auth=62a47cfb__0_7241a85907b2d53e981f1abad59dacf4'
+        default: 'https://bigota.d.miui.com/V12.5.1.0.QEDCNXM/miui_MIMAX3_V12.5.1.0.QEDCNXM_31b6021352_10.0.zip'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'Flyme8.zip'
+        default: 'MIUI12.5_Max3.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
-        default: 'Flyme'
+        default: 'MIUI'
       SGSI_TYPE:
         description: 'SGSI_TYPE(AB, A, or BOTH)'
         required: true
