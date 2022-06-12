@@ -6,11 +6,11 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://firmware.meizu.com/Firmware/Flyme/meizu18X/9.2.3.3/cn/20220510102807/bc230e9b/update.zip'
+        default: 'https://aacp4e35bfcgmtyty3zaqsmuegy5k888.node.ppio.cloud:15754/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/16s_Pro/8.1.5.4/cn/20220512192427/d481cb0d/update.zip?f_ver=v1&max_age=7776000&r=WUAgExJ8aRcUPBsYDi4bNR9ZMQobM2hbHThGMxA9BCdQRjFMJyo%2FVRd6WEMKEDkiXhtsTVBocxZGegobVn1ZYgMEYVJTd38KRmdeWh17UWFSVmQHTjM2XBMhDFsDJhleRDENAiIoCR0lDBsaKwdh&ppiouid=62a5ac96a193d90001a4f397dacd37ac&ppio_auth=62a5ac96__0_7241a85907b2d53e981f1abad59dacf4'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'Flyme9_18x.zip'
+        default: 'Flyme8_16sPro.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
@@ -22,7 +22,7 @@ on:
       REPACK_NAME:
         description: 'REPACK_NAME'
         required: true
-        default: 'Flyme9_18xSGSI.zip'
+        default: 'Flyme8_16sProSGSI.zip'
 
 
 
