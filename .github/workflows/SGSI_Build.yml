@@ -6,15 +6,15 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20210427100627/PCCM00_11_OTA_1320_all_ivtcuiLmaw8I.ozip'
+        default: 'http://download.h2os.com/OnePlus7Pro/MP/OnePlus7ProHydrogen_21.H.42_OTA_0420_all_2112212058_7edbf2586a924a87.zip'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'color12_Ren.zip'
+        default: 'h2os_7Pro.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
-        default: 'OPPO'
+        default: 'h2os'
       SGSI_TYPE:
         description: 'SGSI_TYPE(AB, A, or BOTH)'
         required: true
@@ -22,7 +22,7 @@ on:
       REPACK_NAME:
         description: 'REPACK_NAME'
         required: true
-        default: 'color12SGSI.zip'
+        default: 'h2osSGSI.zip'
 
 
 
