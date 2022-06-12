@@ -6,15 +6,15 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://aacp4e35bfcgmtyty3zaqsmuegy5k888.node.ppio.cloud:15754/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/16s_Pro/8.1.5.4/cn/20220512192427/d481cb0d/update.zip?f_ver=v1&max_age=7776000&r=WUAgExJ8aRcUPBsYDi4bNR9ZMQobM2hbHThGMxA9BCdQRjFMJyo%2FVRd6WEMKEDkiXhtsTVBocxZGegobVn1ZYgMEYVJTd38KRmdeWh17UWFSVmQHTjM2XBMhDFsDJhleRDENAiIoCR0lDBsaKwdh&ppiouid=62a5ac96a193d90001a4f397dacd37ac&ppio_auth=62a5ac96__0_7241a85907b2d53e981f1abad59dacf4'
+        default: 'https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20210427100627/PCCM00_11_OTA_1320_all_ivtcuiLmaw8I.ozip'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'Flyme8_16sPro.zip'
+        default: 'color12_Ren.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
-        default: 'Flyme'
+        default: 'OPPO'
       SGSI_TYPE:
         description: 'SGSI_TYPE(AB, A, or BOTH)'
         required: true
@@ -22,7 +22,7 @@ on:
       REPACK_NAME:
         description: 'REPACK_NAME'
         required: true
-        default: 'Flyme8_16sProSGSI.zip'
+        default: 'color12SGSI.zip'
 
 
 
