@@ -6,7 +6,7 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://aaa7tyw2yztobljs23qoicpdulb7o888.node.ppio.cloud:55457/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/meizu18/9.3.0.0/cn/20220628163012/27dbef47/update.zip?f_ver=v1&max_age=7776000&r=IEcdJUp8XUEcPzUVIA1EH2ZeDDxDM1wNFTtoPj4eWw0pQQx6fyoLAx95Kh0%2BFkNLcBxQewpoQkBKeSQWeF4GSHoDX2cBd0RdSmd1V2VbUhgtVV1iFjMCChsiIlYtBUYnQww7WiIcXxUmIhY0CFhL&ppiouid=62bee81dd633410001bcd13b27bc6e7d&ppio_auth=62bee81d__0_ec60f8531462713c8e1fdac42c582783'
+        default: 'https://aacdlzkgjorja5beqenc6cvny7oou888.node.ppio.cloud:10519/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/meizu18_Pro/9.3.0.0/cn/20220628163037/b2592ff7/update.zip?f_ver=v1&max_age=7776000&r=XkAhIj9eXEYKMQU0NiNAKBhZMDs2EV0KAzVYHygwXzpXRjB9CggKBAl3GjwoOEd8DmsFICNLSkdfdkd3cW1RIxkGZWB%2BVEVbVGlBanFxBWJUBmBrfgIVXkMtBz0gNldjTF0lWUQwPC8AHVgDKBI3IiZcfA%3D%3D&ppiouid=62beea74d633410001f4616127bc6e7d&ppio_auth=62beea74__0_07086d65f01217c582768190972aceba'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
