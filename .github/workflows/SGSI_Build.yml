@@ -6,7 +6,7 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://hugeota.d.miui.com/V11.0.3.0.QEECNXM/miui_MIMIX3_V11.0.3.0.QEECNXM_4d73488207_10.0.zip'
+        default: 'https://hugeota.d.miui.com/V11.0.9.0.QFACNXM/miui_CEPHEUS_V11.0.9.0.QFACNXM_aa7683f027_10.0.zip'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
@@ -18,7 +18,7 @@ on:
       SGSI_TYPE:
         description: 'SGSI_TYPE(AB, A, or BOTH)'
         required: true
-        default: 'AB'
+        default: 'A-only'
       REPACK_NAME:
         description: 'REPACK_NAME'
         required: true
