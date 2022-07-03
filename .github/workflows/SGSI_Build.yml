@@ -6,15 +6,15 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://dwz.mk/MBBz2m'
+        default: 'https://hugeota.d.miui.com/V11.0.9.0.QFACNXM/miui_CEPHEUS_V11.0.9.0.QFACNXM_aa7683f027_10.0.zip'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'Flyme8.zip'
+        default: 'MIUI11.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
-        default: 'Flyme'
+        default: 'MIUI'
       SGSI_TYPE:
         description: 'SGSI_TYPE(AB, A, or BOTH)'
         required: true
@@ -22,7 +22,7 @@ on:
       REPACK_NAME:
         description: 'REPACK_NAME'
         required: true
-        default: 'Flyme8SGSI.zip'
+        default: 'MIUI11SGSI.zip'
 
 
 
